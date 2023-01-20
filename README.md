@@ -8,18 +8,21 @@ I forgot to mention my name. I am Suyash and here's the correct [pronunciation.]
 
 Here's the list of programming languages I am familiar with:
 1) Object Oriented
-      -Java
-      -C++
-      -Python
-      -PHP
+      - Java
+      - C++
+      - Python
+      - PHP
+      
 2) Scripting
-      -Python
-      -PHP
+      - Python
+      - PHP
+      
 3) Logic
-      -Prolog
-      -Datalog
+      - Prolog
+      - Datalog
+      
 4) Front-end
-      -HTML
-      -CSS
-      -Javascript
+      - HTML
+      - CSS
+      - Javascript
       
