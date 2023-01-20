@@ -7,18 +7,18 @@ I come from **Nepal**. It's a small country in the lap of himalayas. ![Here is t
 I forgot to mention my name. I am Suyash and here's the correct [pronunciation.](https://youtube.com/watch?v=wcv_uSY5LEw)
 
 Here's the list of programming languages I am familiar with:
-1)Object Oriented
+1) Object Oriented
       -Java
       -C++
       -Python
       -PHP
-2)Scripting
+2) Scripting
       -Python
       -PHP
-3)Logic
+3) Logic
       -Prolog
       -Datalog
-4)Front-end
+4) Front-end
       -HTML
       -CSS
       -Javascript
